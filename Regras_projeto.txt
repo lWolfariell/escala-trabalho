@@ -1,0 +1,10 @@
+planilha regras
+nao trabalhar 7 dias seguidos
+Deve-se contar domingos e feriados, indicando o número mínimo de folgas no mês
+Deve-se considerar uma folga no dia do aniversário de cada funcionário
+folga sindical para os cargos de arrumadeiras entre novembro e dezembro.
+haver um intervalo de, no mínimo, 36 horas entre jornadas de trabalho (quando houver folga) ou 11 horas em dias seguidos.
+
+planilha deve registrar as férias do funcionário indicado
+planilha tenha a capacidade de indicar as folgas > levando em consideração o mínimo de pessoas no mesmo dia
+

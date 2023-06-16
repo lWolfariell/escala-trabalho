@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Escala</title>
+
+</head>
+<body>
+
+    <section class="inserir-funcionarios">
+
+        <input type="text" name="Funcionario" id="inputFuncionario" placeholder="Funcionario"><br>
+        
+        <label for="Cargo">Cargo</label>
+	    <select id="inputCargo" name="Cargo">
+            <option value="Selecione um Cargo" select disabled>Selecione um Cargo</option>
+		    <option value="Arrumadeira(o)">Arrumadeira(o)</option>
+		    <option value="Departamento Pessoal">Departamento Pessoal</option>
+		    <option value="Financeiro">Financeiro</option>
+		    <option value="TI">TI</option>
+		    <option value="Diretoria">Diretoria</option>
+		    <option value="Comprador">Comprador</option>
+		    <option value="Atendente">Atendente</option>
+	    </select><br>
+        <input type="date" name="data-nasc" id="inputNascimento" placeholder="Data de nascimento"><br>
+        <input type="button" value="Inserir" onclick="adicionarFuncionario()"><br>
+
+    </section>
+
+    <script src="main.js"></script>
+    
+</body>
+</html>
